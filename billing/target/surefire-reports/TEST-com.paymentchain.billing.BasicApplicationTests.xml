@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.paymentchain.billing.BasicApplicationTests" time="0.475" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.paymentchain.billing.BasicApplicationTests" time="0.425" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="17"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
@@ -12,7 +12,7 @@
     <property name="user.country" value="US"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="/Users/jzapata/Library/Java/JavaVirtualMachines/openjdk-17.0.2/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/jzapata/Downloads/Courses/DevOps/devops-udemy/billing/target/surefire/surefirebooter8794261879894239263.jar /Users/jzapata/Downloads/Courses/DevOps/devops-udemy/billing/target/surefire 2022-02-03T01-10-53_747-jvmRun1 surefire2315697044971103019tmp surefire_04429104388843424177tmp"/>
+    <property name="sun.java.command" value="/Users/jzapata/Downloads/Courses/DevOps/devops-udemy/billing/target/surefire/surefirebooter4462865201180447537.jar /Users/jzapata/Downloads/Courses/DevOps/devops-udemy/billing/target/surefire 2022-02-04T01-50-52_326-jvmRun1 surefire1795995154609317178tmp surefire_05689926763044555975tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
     <property name="test" value="com.paymentchain.billing.BasicApplicationTests"/>
@@ -29,7 +29,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="/Users/jzapata/Downloads/Courses/DevOps/devops-udemy/billing/target/surefire/surefirebooter8794261879894239263.jar"/>
+    <property name="surefire.real.class.path" value="/Users/jzapata/Downloads/Courses/DevOps/devops-udemy/billing/target/surefire/surefirebooter4462865201180447537.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.runtime.version" value="17.0.2+8-86"/>
@@ -56,5 +56,5 @@
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="contextLoads" classname="com.paymentchain.billing.BasicApplicationTests" time="0.336"/>
+  <testcase name="contextLoads" classname="com.paymentchain.billing.BasicApplicationTests" time="0.283"/>
 </testsuite>
